@@ -1,0 +1,14 @@
+AVÍS IMPORTANT
+==============
+
+
+El lloc adient per guardar els vostres arxius és la unitat F:.
+
+No guardeu arxius a l'escriptori o a "Mis Documentos", aquestes carpetes 
+formen part del perfil de Windows. Si s'omple l'espai de disc reservat per
+al perfil, Windows deixarà de funcionar i haureu de sol·licitar als tècnics
+de l'inLab que us reiniciïn el perfil de Windows, amb la qual cosa 
+s'esborraran tots el arxius guardats a aquestes ubicacions.
+
+inLab FIB
+
